@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oqmqts3qmre0oik2?svg=true)](https://ci.appveyor.com/project/Xomigrek/orderingcarddelivery)
